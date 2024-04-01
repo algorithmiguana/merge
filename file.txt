@@ -1,1 +1,2 @@
 new message from feature
+second feature added
